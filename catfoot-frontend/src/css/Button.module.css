@@ -1,0 +1,21 @@
+.btn{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: black;
+    z-index: 3;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    right: 0;
+    height: 40%;
+    justify-content: space-evenly;
+    width: 50px;
+    align-items: center;
+    top: 30%;
+}
+.white{
+    background-color: white;
+}
